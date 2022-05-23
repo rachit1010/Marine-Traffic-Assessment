@@ -17,10 +17,10 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 This project is based on real time project and it can provide immense excellent opportunities in future.
 
-1. As a programmer, should I go to work in the western world (e.g. America, Europe, etc.) or remain in the eastern world (e.g. India, China, etc.)?
-2. What is the salary difference in the western world and in the eastern world?
-3. How are the programmers satisfying about their job between these two sides of the world?
-4. Are there more jobs opportunity in the western world than that in the eastern world?
+1. As a programmer, Should I think about having my career in Data Science or Machine Learning field
+2. What is the salary difference between the western countries and India.
+3. For how long We can survive as programmer.
+4. Are there more jobs opportunity in the western world than that in India.
 
 ## File Descriptions <a name="files"></a>
 
